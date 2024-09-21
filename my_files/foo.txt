@@ -1,0 +1,36 @@
+hey you
+almost-correkt
+correct or NoT
+-almost?
+hey12
+11hel4lo11 yee3p
+13hello12!
+yep
+hey1o
+'hello'
+'HEllO'
+$hey
+%hello
+!wrong
+*yay this is not okay2
+1hey4 4 naur
+"wow" !
+"wow
+who
+well -behaved
+well-behaved
+--hi
+"heyo"
+"hello"
+correct- half!
+correkt-half
+correct-half
+correkt!
+correct - half
+correkt - half
+well- behaved
+half - correkt
+half -correct
+
+this file shows that punctuation works only if it begins with one of the five characters and ending punctuation is okay.
+we also made sure to remove quotations when the word is spelled incorrectly.
